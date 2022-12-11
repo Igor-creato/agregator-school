@@ -19,6 +19,3 @@ else{
     // test2.style.display = '';
     nullString.remove('div');
 }})
-console.log(nullString);
-console.log(heightString);
-console.log(marginTopString);
